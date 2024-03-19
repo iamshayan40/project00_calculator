@@ -1,0 +1,27 @@
+{
+  "name": "m6ra3-caclculator",
+  "version": "1.0.0",
+  "description": "A simple calculator,with typescript,Node JS and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "code ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "code ."
+  },
+  "keywords": [
+    "code",
+    "."
+  ],
+  "author": "code .",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
